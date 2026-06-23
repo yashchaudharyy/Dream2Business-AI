@@ -94,7 +94,6 @@ Dream2Business-AI/
 ├── requirements.txt
 └── README.md
 📸 Demo
-Add screenshots or demo video here for best impact 🔥
 <img width="921" height="453" alt="Image" src="https://github.com/user-attachments/assets/925827fa-fad4-4ffa-a005-7bc78860cd63" />
 🚀 Innovation & Impact
 Reduces idea-to-execution gap
