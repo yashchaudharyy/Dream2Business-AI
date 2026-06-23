@@ -10,6 +10,8 @@
 
 ---
 
+<img width="921" height="453" alt="Image" src="https://github.com/user-attachments/assets/925827fa-fad4-4ffa-a005-7bc78860cd63" />
+
 ## 🧠 Problem Statement
 
 Aaj ke time me logon ke paas **ideas bahut hote hain**,  
